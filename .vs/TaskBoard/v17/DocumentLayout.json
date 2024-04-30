@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardlibrary\\boardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:boardlibrary\\boardcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardlibrary\\dbcontextconnectorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:boardlibrary\\dbcontextconnectorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:boardlibrary\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardlibrary\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:boardlibrary\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardlibrary\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:boardlibrary\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createpersonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createprojectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\createtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\createtaskform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|c:\\users\\kubek\\source\\repos\\aspnet\\taskboard\\boardui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\boardui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2283BA1C-A73A-49BA-A5FD-D1B5C8D9BC25}|BoardUI\\BoardUI.csproj|solutionrelative:boardui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4062B2D0-63FD-433B-B53F-51A2BDAD3B52}|BoardLibrary\\BoardLibrary.csproj|solutionrelative:BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePersonForm.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreatePersonForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreatePersonForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreatePersonForm.cs",
+              "RelativeToolTip": "BoardUI\\CreatePersonForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:06:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\TaskModel.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\TaskModel.cs",
+              "RelativeToolTip": "BoardLibrary\\TaskModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:57:18.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectModel.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\ProjectModel.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\ProjectModel.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\ProjectModel.cs",
+              "RelativeToolTip": "BoardLibrary\\ProjectModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:29:04.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\PersonModel.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\PersonModel.cs",
+              "RelativeToolTip": "BoardLibrary\\PersonModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T15:57:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbContextConnectorClass.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\DbContextConnectorClass.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\DbContextConnectorClass.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\DbContextConnectorClass.cs",
+              "RelativeToolTip": "BoardLibrary\\DbContextConnectorClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:12:38.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoardContext.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\BoardContext.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\BoardContext.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\BoardContext.cs",
+              "RelativeToolTip": "BoardLibrary\\BoardContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:26:40.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Program.cs",
+              "RelativeDocumentMoniker": "BoardUI\\Program.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Program.cs",
+              "RelativeToolTip": "BoardUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:53:51.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePersonForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreatePersonForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreatePersonForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreatePersonForm.cs [Projekt]",
+              "RelativeToolTip": "BoardUI\\CreatePersonForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:55:57.679Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateProjectForm.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateProjectForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreateProjectForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateProjectForm.cs",
+              "RelativeToolTip": "BoardUI\\CreateProjectForm.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:48:20.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateProjectForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateProjectForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreateProjectForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateProjectForm.cs [Projekt]",
+              "RelativeToolTip": "BoardUI\\CreateProjectForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:13:29.513Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTaskForm.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateTaskForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreateTaskForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateTaskForm.cs",
+              "RelativeToolTip": "BoardUI\\CreateTaskForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:18:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTaskForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateTaskForm.cs",
+              "RelativeDocumentMoniker": "BoardUI\\CreateTaskForm.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\CreateTaskForm.cs [Projekt]",
+              "RelativeToolTip": "BoardUI\\CreateTaskForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:13:32.041Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.cs",
+              "RelativeDocumentMoniker": "BoardUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.cs",
+              "RelativeToolTip": "BoardUI\\Form1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:45:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BoardUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.Designer.cs",
+              "RelativeToolTip": "BoardUI\\Form1.Designer.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAQwHEBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:16:11.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.cs",
+              "RelativeDocumentMoniker": "BoardUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\Form1.cs [Design]",
+              "RelativeToolTip": "BoardUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T17:13:51.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240430165426_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs",
+              "RelativeToolTip": "BoardLibrary\\Migrations\\20240430165426_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:54:26.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App1.config",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\App1.config",
+              "RelativeDocumentMoniker": "BoardUI\\App1.config",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\App1.config",
+              "RelativeToolTip": "BoardUI\\App1.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-29T23:13:18.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240430124243_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs",
+              "RelativeToolTip": "BoardLibrary\\Migrations\\20240430124243_InitialCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:42:43.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\appsettings.json",
+              "RelativeDocumentMoniker": "BoardUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kubek\\source\\repos\\ASpnet\\TaskBoard\\BoardUI\\appsettings.json",
+              "RelativeToolTip": "BoardUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T12:41:31.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
